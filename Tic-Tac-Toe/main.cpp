@@ -178,3 +178,5 @@ bool Draw()
                 return false;
     return true;
 }
+for(int i=0;i<n;i++)
+    cout<<"This is aditya";
